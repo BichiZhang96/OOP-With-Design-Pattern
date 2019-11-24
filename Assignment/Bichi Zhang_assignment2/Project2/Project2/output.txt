@@ -1,0 +1,37 @@
+Generation 1:
+# # # # #
+# x x x #
+# # x # #
+# # # # #
+
+Generation 2:
+# # # # #
+# # x # #
+# x x x #
+# x x x #
+# # # # #
+
+Generation 3:
+# # # # #
+# x x x #
+# # # # #
+# x # x #
+# # x # #
+# # # # #
+
+Generation 4:
+# # # # #
+# # x # #
+# # x # #
+# x # x #
+# # x # #
+# # x # #
+# # # # #
+
+Generation 5:
+# # # # #
+# x x x #
+# x # x #
+# x x x #
+# # # # #
+
