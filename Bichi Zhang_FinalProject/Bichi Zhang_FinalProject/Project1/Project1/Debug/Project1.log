@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\computer science\oop with design pattern\assignment\assignment\bichi zhang_project4\bichi zhang_finalproject\project1\project1\player.h(34): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+d:\computer science\oop with design pattern\assignment\assignment\bichi zhang_project4\bichi zhang_finalproject\project1\project1\player.h(41): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+d:\computer science\oop with design pattern\assignment\assignment\bichi zhang_project4\bichi zhang_finalproject\project1\project1\player.h(54): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\computer science\oop with design pattern\assignment\assignment\bichi zhang_project4\bichi zhang_finalproject\project1\project1\player.h(55): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\computer science\oop with design pattern\assignment\assignment\bichi zhang_project4\bichi zhang_finalproject\project1\project1\main.cpp(119): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\computer science\oop with design pattern\assignment\assignment\bichi zhang_project4\bichi zhang_finalproject\project1\project1\main.cpp(121): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  Project1.vcxproj -> D:\Computer Science\OOP with Design Pattern\Assignment\assignment\Bichi Zhang_Project4\Bichi Zhang_FinalProject\Project1\Debug\Project1.exe
